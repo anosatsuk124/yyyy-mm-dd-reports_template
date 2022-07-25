@@ -1,0 +1,10 @@
+version: "3"
+services:
+  lualatex:
+    command: lualatex ${DOC} ${OPTION}
+    tty: true
+    build:
+      dockerfile: Dockerfile
+      context: .
+    volumes:
+      - .:/work

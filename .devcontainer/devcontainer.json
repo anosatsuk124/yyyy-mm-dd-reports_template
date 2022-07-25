@@ -1,0 +1,11 @@
+{
+    "name": "lualatex",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "lualatex",
+    "workspaceFolder": "/work",
+    "extensions": [
+		"James-Yu.latex-workshop",
+		"tecosaur.latex-utilities"
+	],
+    "remoteUser": "root"
+}
