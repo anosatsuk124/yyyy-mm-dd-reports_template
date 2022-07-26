@@ -1,2 +1,10 @@
 /dist
 *.log
+*latexmk
+*.fls
+*.aux
+*.pdf
+*.gz
+*.synctex*
+*.bbl
+*.blg

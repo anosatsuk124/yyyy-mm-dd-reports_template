@@ -5,7 +5,8 @@
     "workspaceFolder": "/work",
     "extensions": [
 		"James-Yu.latex-workshop",
-		"tecosaur.latex-utilities"
+		"tecosaur.latex-utilities",
+		"kirozen.wordcounter"
 	],
     "remoteUser": "root"
 }
